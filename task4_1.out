@@ -1,0 +1,17 @@
+--- Hardware ---
+CPU model name : Intel(R) Core(TM) i3-2350M CPU @ 2.30GHz
+RAM 6052420
+Motherboard:  Product Name: Base Board Product Name / Manufacturer: LENOVO
+
+System Serial Number: 2826165401956
+--- System ---
+OS Distribution: Description: Ubuntu 16.04.4 LTS
+Kernel version:  4.4.0-116-generic
+Installation date:  26 Apr 2016
+Hostname: duty-khr-dc2
+Uptime: 6 days
+Processes running: 290
+User logged in: 3
+--- Network ---
+1: iface lo : 127.0.0.1/8
+3: iface wlp2s0 : 217.12.205.28/26
